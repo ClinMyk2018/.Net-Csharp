@@ -1,0 +1,9 @@
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\bin\Debug\W4.T2Struct.ClinardBrandi.exe.config
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\bin\Debug\W4.T2Struct.ClinardBrandi.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\bin\Debug\W4.T2Struct.ClinardBrandi.pdb
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.csprojAssemblyReference.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.Form1.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.Properties.Resources.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.csproj.GenerateResource.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Struct.ClinardBrandi\obj\Debug\W4.T2Struct.ClinardBrandi.pdb

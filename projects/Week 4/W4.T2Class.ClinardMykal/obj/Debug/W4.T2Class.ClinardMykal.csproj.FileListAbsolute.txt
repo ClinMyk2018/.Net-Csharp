@@ -1,0 +1,9 @@
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\bin\Debug\W4.T2Class.ClinardMykal.exe.config
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\bin\Debug\W4.T2Class.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\bin\Debug\W4.T2Class.ClinardMykal.pdb
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.csprojAssemblyReference.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.Form1.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.Properties.Resources.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.csproj.GenerateResource.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\Week 4\W4.T2Class.ClinardMykal\obj\Debug\W4.T2Class.ClinardMykal.pdb

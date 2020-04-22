@@ -1,0 +1,9 @@
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\bin\Debug\W1.T2.ClinardMykal.exe.config
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\bin\Debug\W1.T2.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\bin\Debug\W1.T2.ClinardMykal.pdb
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.csprojAssemblyReference.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.frmHello_World.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.Properties.Resources.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.csproj.GenerateResource.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T2.ClinardMykal\W1.T2.ClinardMykal\obj\Debug\W1.T2.ClinardMykal.pdb

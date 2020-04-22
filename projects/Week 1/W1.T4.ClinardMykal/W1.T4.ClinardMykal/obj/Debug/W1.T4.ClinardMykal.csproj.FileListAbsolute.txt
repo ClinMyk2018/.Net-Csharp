@@ -1,0 +1,8 @@
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\bin\Debug\W1.T4.ClinardMykal.exe.config
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\bin\Debug\W1.T4.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\bin\Debug\W1.T4.ClinardMykal.pdb
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\obj\Debug\W1.T4.ClinardMykal.Form1.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\obj\Debug\W1.T4.ClinardMykal.Properties.Resources.resources
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\obj\Debug\W1.T4.ClinardMykal.csproj.GenerateResource.cache
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\obj\Debug\W1.T4.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net l\projects\W1.T4.ClinardMykal\W1.T4.ClinardMykal\obj\Debug\W1.T4.ClinardMykal.pdb
